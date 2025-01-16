@@ -39,8 +39,8 @@ Every 2 seconds during
 will cleave all near by enemies for 14,000 physical damage, so be sure to move
 away if he approaches you. While bone storm is going on, he will continue to 
 put players in Bone Spikes, so be sure to prioritize getting people out of the
-spikes. In addition, when Marrowgar will continue to drop Coldflame, so be
-sure to note stand it in (-11k damage per second).
+spikes. In addition, Marrowgar will continue to drop Coldflame, so be
+sure to not stand it in (-11k damage per second).
 
 Once Bone Storm ends, repeat the opening phase of the fight, where tanks will
 stack infront of the boss, and everyone except the hunter will stack under the
