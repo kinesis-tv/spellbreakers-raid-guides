@@ -3,7 +3,7 @@
 When the fight starts we should be positioned something like this. 
 Spread out and give each other room `/range 12` to be sure.
 
-![Range Positioning](./img/dbs1.png)
+![Range Positioning](../../img/dbs1.png)
 
 Everybody will burn the boss for a period of time until he spawns Blood Beasts.
 
@@ -17,7 +17,7 @@ Doing so causes him to generate Blood Power much more quickly.
 Once the second tank gets Rune of Blood the First tank will taunt it back.
 Rinse repeat for tanks.
 
-![Blood Beasts](./img/dbs2.png)
+![Blood Beasts](../../img/dbs2.png)
 When the boss summons Blood Beasts there will be 5 of them on Heroic.
 Hunters need to run up before they spawn and drop frost traps in the area where
 they spawn to slow them down. 
@@ -30,7 +30,7 @@ They hit significantly hard and will generate more Blood Power on the Boss.
 Rinse repeat for each set of Blood Beasts that spawn.
 
 
-![Marks](./img/dbs3.png)
+![Marks](../../img/dbs3.png)
 Once the boss reaches 100 Blood Power he will target 1 random person and apply 
 Mark of the Fallen Champion. The Holy Paladin needs to beacon this first mark 
 and continue healing the tanks. All other healers need to help keep that target

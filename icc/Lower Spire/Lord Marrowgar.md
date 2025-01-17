@@ -23,7 +23,7 @@ roughly **51,005 to 69,538** in unfiltered damage (armor, any additional damage
 reduction auras etc).
 
 Here are the starting positions:
-![Starting Position Marrowgar](./img/marrow1.png)
+![Starting Position Marrowgar](../../img/marrow1.png)
 
 Lord Marrowgar will periodically cast 
 [Bone Spike Graveyard](https://www.wowhead.com/wotlk/spell=69057/bone-spike-graveyard)
@@ -41,7 +41,7 @@ at the entrance of the room. Here, the off-tank should move closer to the door,
 and another range DPS should move to the west side of the room to get Marrowgar
 to move towards them so that Marrowgar continually "bounces" across the room.
 
-![Bone Storm Positions](./img/marrow2.png)
+![Bone Storm Positions](../../img/marrow2.png)
 
 Every 2 seconds during
 [Bone Storm](https://www.wowhead.com/wotlk/spell=69076/bone-storm), Marrowgar
