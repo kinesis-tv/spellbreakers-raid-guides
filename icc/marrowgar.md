@@ -1,7 +1,15 @@
 
 # `Lord Marrowgar`
 
-## Opening
+Lord Marrowgar is the first boss in ICC and only has a few basic mechanics.
+
+- Don't stand in [Coldflame](https://www.wowhead.com/wotlk/spell=69146/coldflame)
+- Break Bone Spikes fast (especially during Bone Storm)
+- Tanks stack together
+- Hunter bait boss's Bone Storm
+
+
+## Phase 1
 In this encounter, all DPS and Healers will stack behind the boss, 
 as close as possible to negate the effect of standing in 
 [Coldflame](https://www.wowhead.com/wotlk/spell=69146/coldflame).
@@ -11,8 +19,8 @@ the back of the room.
 Tanks must be stacked together as Marrowgar does a cleave via 
 [Bone Slice](https://www.wowhead.com/wotlk/spell=69055/bone-slice) where the
 2 nearest players to the main tank will share 300% of Marrowgar's melee swing,
-roughly 51,005 - 69,538 in unfiltered damage (armor, any additional damage 
-reduction auras etc.)
+roughly **51,005 to 69,538** in unfiltered damage (armor, any additional damage 
+reduction auras etc).
 
 Here are the starting positions:
 ![Starting Position Marrowgar](./img/marrow1.png)
@@ -20,8 +28,9 @@ Here are the starting positions:
 Lord Marrowgar will periodically cast 
 [Bone Spike Graveyard](https://www.wowhead.com/wotlk/spell=69057/bone-spike-graveyard)
 on 3 players. The majority of the Spikes will be on the players who are stacked
-under the boss, but periodically, will target the hunter. Range DPS shall switch
-to the spiked hunter to free them.
+under the boss. Everyone should be swapping to spikes, but periodically,
+Marrowgar will target the hunter. Range DPS must switch to the spiked hunter to
+free them as melee will take longer to get there and Coldfire might be in the way.
 
 ## Bone Storm
 
