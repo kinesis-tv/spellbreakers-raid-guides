@@ -97,5 +97,5 @@ the ability of people to successfully kite the shades.
 ## Better Vengeful Shade Visibility
 
 If you are having a hard time seeing the Vengeful Shades, download
-the `./assets/patch-z.mpq` file and place it in your `${WOW_DIRECTORY}/Data` folder.
+the [patches/patch-z.mpq](../../patches/patch-z.mpq) file and place it in your `${WOW_DIRECTORY}/Data` folder.
 It will turn the Vengeful Shades to a bright white color.
