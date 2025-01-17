@@ -24,13 +24,13 @@ She will periodically drop
 on the floor, which if possible, should avoid standing in. Druids must also
 Cyclone Mind Controlled targets before they start killing raid members.
 
-![Death and Decay](./img/ldw2.png)
+![Death and Decay](../../img/ldw2.png)
 
 She will start to spawn adds 10 seconds into the fight, and every 45 seconds
 after the first wave. She will spawn Cult Fanatics and Cult Adherents. 
 Everyone must swap to killing adds.
 
-![Adds positioning](./img/ldw1.png)
+![Adds positioning](../../img/ldw1.png)
 
 
 ### Cult Fanatics
