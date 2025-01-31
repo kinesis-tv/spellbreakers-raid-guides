@@ -10,7 +10,7 @@ Everybody will burn the boss for a period of time until he spawns [Blood Beasts]
 Tanks you need to coordinate with each other on who is starting with the boss.
 During the fight you will have to taunt swap between each other based on a 
 certain mechanic. 
-When the first tank tanking the boss gets Rune of Blood the other tank needs to 
+When the first tank tanking the boss gets [Rune of Blood](https://www.wowhead.com/spell=72410/rune-of-blood) the other tank needs to 
 taunt off the Main tank immediately so that the boss isn't hitting the 
 Blood target. 
 Doing so causes him to generate Blood Power much more quickly. 
