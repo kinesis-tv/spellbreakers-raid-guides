@@ -5,7 +5,7 @@ Spread out and give each other room `/range 12` to be sure.
 
 ![Range Positioning](../../img/dbs1.png)
 
-Everybody will burn the boss for a period of time until he spawns [Blood Beasts]{https://www.wowhead.com/npc=38508/blood-beast}
+Everybody will burn the boss for a period of time until he spawns [Blood Beasts](https://www.wowhead.com/npc=38508/blood-beast)
 
 Tanks you need to coordinate with each other on who is starting with the boss.
 During the fight you will have to taunt swap between each other based on a 
