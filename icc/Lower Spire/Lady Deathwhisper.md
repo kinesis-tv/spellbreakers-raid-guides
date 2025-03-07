@@ -24,13 +24,13 @@ She will periodically drop
 on the floor, which if possible, should avoid standing in. Druids must also
 Cyclone Mind Controlled targets before they start killing raid members.
 
-![Death and Decay](../../img/ldw2.png)
+![Death and Decay](../../img/Deathwhisper_death_and_decay.webp)
 
 She will start to spawn adds 10 seconds into the fight, and every 45 seconds
 after the first wave. She will spawn Cult Fanatics and Cult Adherents. 
 Everyone must swap to killing adds.
 
-![Adds positioning](../../img/ldw1.png)
+![Adds positioning](../../img/Deathwhisper_adds.webp)
 
 
 ### Cult Fanatics
@@ -93,6 +93,8 @@ for ~23k for all players within 20 yards of the explosion.
 This is usually where raids wipe, so please be mindful of where
 the Shades spawn. Tanks must move the boss around the room to increase
 the ability of people to successfully kite the shades.
+
+(LDW Movement)[../../img/Deathwhisper_movement.webp]
 
 ## Better Vengeful Shade Visibility
 
